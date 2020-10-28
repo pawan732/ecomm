@@ -120,7 +120,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATIC_ROOT = "/C:/Users/sky007/Desktop/New folder/django_ecommerce_mod5-master/static"
 
 
 STATICFILES_DIRS = [
